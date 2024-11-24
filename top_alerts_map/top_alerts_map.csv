@@ -1,0 +1,156 @@
+binned_coordinates,updated_type,updated_subtype,alert_count,binned_longitude,binned_latitude
+"(-87.82, 41.99)",Hazard,Unclassified,276,-87.82,41.99
+"(-87.81, 41.98)",Hazard,Unclassified,156,-87.81,41.98
+"(-87.81, 41.99)",Hazard,Unclassified,127,-87.81,41.99
+"(-87.81, 41.97)",Hazard,Unclassified,121,-87.81,41.97
+"(-87.82, 41.98)",Hazard,Unclassified,115,-87.82,41.98
+"(-87.63, 41.81)",Hazard,Unclassified,57,-87.63,41.81
+"(-87.63, 41.84)",Hazard,Unclassified,56,-87.63,41.84
+"(-87.84, 41.98)",Hazard,Unclassified,55,-87.84,41.98
+"(-87.63, 41.85)",Hazard,Unclassified,45,-87.63,41.85
+"(-87.64, 41.85)",Hazard,Unclassified,42,-87.64,41.85
+"(-87.67, 41.88)",Hazard,On Road,2060,-87.67,41.88
+"(-87.65, 41.88)",Hazard,On Road,1743,-87.65,41.88
+"(-87.65, 41.89)",Hazard,On Road,1534,-87.65,41.89
+"(-87.64, 41.86)",Hazard,On Road,1456,-87.64,41.86
+"(-87.64, 41.87)",Hazard,On Road,1389,-87.64,41.87
+"(-87.62, 41.88)",Hazard,On Road,1355,-87.62,41.88
+"(-87.63, 41.81)",Hazard,On Road,1228,-87.63,41.81
+"(-87.63, 41.84)",Hazard,On Road,1222,-87.63,41.84
+"(-87.66, 41.99)",Hazard,On Road,1217,-87.66,41.99
+"(-87.75, 41.97)",Hazard,On Road,1209,-87.75,41.97
+"(-87.63, 41.84)",Hazard,On Shoulder,3388,-87.63,41.84
+"(-87.63, 41.82)",Hazard,On Shoulder,3208,-87.63,41.82
+"(-87.65, 41.89)",Hazard,On Shoulder,2877,-87.65,41.89
+"(-87.65, 41.88)",Hazard,On Shoulder,2826,-87.65,41.88
+"(-87.63, 41.8)",Hazard,On Shoulder,2816,-87.63,41.8
+"(-87.75, 41.97)",Hazard,On Shoulder,2788,-87.75,41.97
+"(-87.63, 41.79)",Hazard,On Shoulder,2754,-87.63,41.79
+"(-87.63, 41.83)",Hazard,On Shoulder,2704,-87.63,41.83
+"(-87.63, 41.81)",Hazard,On Shoulder,2641,-87.63,41.81
+"(-87.59, 41.66)",Hazard,On Shoulder,2498,-87.59,41.66
+"(-87.66, 41.9)",Accident,Unclassified,561,-87.66,41.9
+"(-87.65, 41.88)",Accident,Unclassified,536,-87.65,41.88
+"(-87.65, 41.89)",Accident,Unclassified,452,-87.65,41.89
+"(-87.62, 41.9)",Accident,Unclassified,437,-87.62,41.9
+"(-87.64, 41.85)",Accident,Unclassified,363,-87.64,41.85
+"(-87.64, 41.86)",Accident,Unclassified,352,-87.64,41.86
+"(-87.64, 41.87)",Accident,Unclassified,340,-87.64,41.87
+"(-87.63, 41.81)",Accident,Unclassified,307,-87.63,41.81
+"(-87.75, 41.97)",Accident,Unclassified,279,-87.75,41.97
+"(-87.63, 41.84)",Accident,Unclassified,268,-87.63,41.84
+"(-87.59, 41.66)",Hazard,Weather,221,-87.59,41.66
+"(-87.63, 41.91)",Hazard,Weather,117,-87.63,41.91
+"(-87.64, 41.85)",Hazard,Weather,83,-87.64,41.85
+"(-87.66, 41.99)",Hazard,Weather,79,-87.66,41.99
+"(-87.62, 41.9)",Hazard,Weather,77,-87.62,41.9
+"(-87.65, 41.88)",Hazard,Weather,73,-87.65,41.88
+"(-87.58, 41.65)",Hazard,Weather,71,-87.58,41.65
+"(-87.6, 41.69)",Hazard,Weather,67,-87.6,41.69
+"(-87.65, 41.96)",Hazard,Weather,64,-87.65,41.96
+"(-87.69, 41.83)",Hazard,Weather,59,-87.69,41.83
+"(-87.65, 41.88)",Jam,Stand Still Traffic,4666,-87.65,41.88
+"(-87.65, 41.89)",Jam,Stand Still Traffic,4278,-87.65,41.89
+"(-87.66, 41.9)",Jam,Stand Still Traffic,3563,-87.66,41.9
+"(-87.76, 41.97)",Jam,Stand Still Traffic,2503,-87.76,41.97
+"(-87.75, 41.98)",Jam,Stand Still Traffic,2347,-87.75,41.98
+"(-87.74, 41.96)",Jam,Stand Still Traffic,2287,-87.74,41.96
+"(-87.75, 41.97)",Jam,Stand Still Traffic,2079,-87.75,41.97
+"(-87.71, 41.94)",Jam,Stand Still Traffic,1983,-87.71,41.94
+"(-87.73, 41.95)",Jam,Stand Still Traffic,1972,-87.73,41.95
+"(-87.78, 41.98)",Jam,Stand Still Traffic,1913,-87.78,41.98
+"(-87.65, 41.89)",Jam,Unclassified,1086,-87.65,41.89
+"(-87.66, 41.9)",Jam,Unclassified,973,-87.66,41.9
+"(-87.65, 41.88)",Jam,Unclassified,944,-87.65,41.88
+"(-87.71, 41.94)",Jam,Unclassified,624,-87.71,41.94
+"(-87.67, 41.92)",Jam,Unclassified,612,-87.67,41.92
+"(-87.79, 41.98)",Jam,Unclassified,610,-87.79,41.98
+"(-87.78, 41.98)",Jam,Unclassified,604,-87.78,41.98
+"(-87.69, 41.93)",Jam,Unclassified,593,-87.69,41.93
+"(-87.64, 41.85)",Jam,Unclassified,582,-87.64,41.85
+"(-87.66, 41.91)",Jam,Unclassified,581,-87.66,41.91
+"(-87.66, 41.9)",Jam,Heavy Traffic,4323,-87.66,41.9
+"(-87.65, 41.88)",Jam,Heavy Traffic,4214,-87.65,41.88
+"(-87.65, 41.89)",Jam,Heavy Traffic,4194,-87.65,41.89
+"(-87.74, 41.96)",Jam,Heavy Traffic,2945,-87.74,41.96
+"(-87.76, 41.97)",Jam,Heavy Traffic,2752,-87.76,41.97
+"(-87.71, 41.94)",Jam,Heavy Traffic,2731,-87.71,41.94
+"(-87.69, 41.93)",Jam,Heavy Traffic,2514,-87.69,41.93
+"(-87.67, 41.92)",Jam,Heavy Traffic,2458,-87.67,41.92
+"(-87.78, 41.98)",Jam,Heavy Traffic,2428,-87.78,41.98
+"(-87.75, 41.97)",Jam,Heavy Traffic,2399,-87.75,41.97
+"(-87.67, 41.92)",Jam,Moderate Traffic,91,-87.67,41.92
+"(-87.66, 41.9)",Jam,Moderate Traffic,88,-87.66,41.9
+"(-87.65, 41.89)",Jam,Moderate Traffic,70,-87.65,41.89
+"(-87.75, 41.97)",Jam,Moderate Traffic,69,-87.75,41.97
+"(-87.79, 41.98)",Jam,Moderate Traffic,65,-87.79,41.98
+"(-87.68, 41.92)",Jam,Moderate Traffic,65,-87.68,41.92
+"(-87.71, 41.94)",Jam,Moderate Traffic,64,-87.71,41.94
+"(-87.69, 41.93)",Jam,Moderate Traffic,63,-87.69,41.93
+"(-87.73, 41.82)",Jam,Moderate Traffic,60,-87.73,41.82
+"(-87.65, 41.88)",Jam,Moderate Traffic,60,-87.65,41.88
+"(-87.65, 41.88)",Road Closed,Unclassified,979,-87.65,41.88
+"(-87.66, 41.9)",Road Closed,Unclassified,585,-87.66,41.9
+"(-87.62, 41.88)",Road Closed,Unclassified,420,-87.62,41.88
+"(-87.63, 41.9)",Road Closed,Unclassified,384,-87.63,41.9
+"(-87.62, 41.87)",Road Closed,Unclassified,367,-87.62,41.87
+"(-87.65, 41.95)",Road Closed,Unclassified,329,-87.65,41.95
+"(-87.65, 41.94)",Road Closed,Unclassified,314,-87.65,41.94
+"(-87.64, 41.87)",Road Closed,Unclassified,257,-87.64,41.87
+"(-87.65, 41.89)",Road Closed,Unclassified,254,-87.65,41.89
+"(-87.7, 41.96)",Road Closed,Unclassified,250,-87.7,41.96
+"(-87.66, 41.9)",Accident,Major,360,-87.66,41.9
+"(-87.64, 41.87)",Accident,Major,225,-87.64,41.87
+"(-87.65, 41.88)",Accident,Major,192,-87.65,41.88
+"(-87.64, 41.86)",Accident,Major,161,-87.64,41.86
+"(-87.64, 41.85)",Accident,Major,157,-87.64,41.85
+"(-87.65, 41.89)",Accident,Major,145,-87.65,41.89
+"(-87.63, 41.81)",Accident,Major,143,-87.63,41.81
+"(-87.63, 41.78)",Accident,Major,135,-87.63,41.78
+"(-87.66, 41.88)",Accident,Major,123,-87.66,41.88
+"(-87.63, 41.84)",Accident,Major,119,-87.63,41.84
+"(-87.65, 41.89)",Accident,Minor,66,-87.65,41.89
+"(-87.62, 41.9)",Accident,Minor,58,-87.62,41.9
+"(-87.65, 41.88)",Accident,Minor,56,-87.65,41.88
+"(-87.64, 41.86)",Accident,Minor,52,-87.64,41.86
+"(-87.66, 41.9)",Accident,Minor,47,-87.66,41.9
+"(-87.64, 41.85)",Accident,Minor,45,-87.64,41.85
+"(-87.72, 41.95)",Accident,Minor,39,-87.72,41.95
+"(-87.74, 41.96)",Accident,Minor,38,-87.74,41.96
+"(-87.67, 41.92)",Accident,Minor,36,-87.67,41.92
+"(-87.64, 41.87)",Accident,Minor,35,-87.64,41.87
+"(-87.75, 41.96)",Road Closed,Event,9907,-87.75,41.96
+"(-87.65, 41.88)",Road Closed,Event,5002,-87.65,41.88
+"(-87.63, 41.84)",Road Closed,Event,4974,-87.63,41.84
+"(-87.65, 41.89)",Road Closed,Event,4964,-87.65,41.89
+"(-87.6, 41.69)",Road Closed,Event,4964,-87.6,41.69
+"(-87.64, 41.71)",Road Closed,Event,4947,-87.64,41.71
+"(-87.75, 41.97)",Road Closed,Event,4932,-87.75,41.97
+"(-87.62, 41.88)",Road Closed,Event,291,-87.62,41.88
+"(-87.62, 41.87)",Road Closed,Event,233,-87.62,41.87
+"(-87.64, 41.94)",Road Closed,Event,116,-87.64,41.94
+"(-87.81, 41.92)",Jam,Light Traffic,1,-87.81,41.92
+"(-87.71, 41.84)",Jam,Light Traffic,1,-87.71,41.84
+"(-87.63, 41.88)",Jam,Light Traffic,1,-87.63,41.88
+"(-87.62, 41.86)",Jam,Light Traffic,1,-87.62,41.86
+"(-87.62, 41.88)",Jam,Light Traffic,1,-87.62,41.88
+"(-87.65, 41.88)",Road Closed,Construction,15,-87.65,41.88
+"(-87.66, 41.9)",Road Closed,Construction,12,-87.66,41.9
+"(-87.73, 41.97)",Road Closed,Construction,5,-87.73,41.97
+"(-87.69, 41.96)",Road Closed,Construction,5,-87.69,41.96
+"(-87.74, 41.97)",Road Closed,Construction,4,-87.74,41.97
+"(-87.69, 41.89)",Road Closed,Construction,4,-87.69,41.89
+"(-87.65, 41.94)",Road Closed,Construction,4,-87.65,41.94
+"(-87.64, 41.87)",Road Closed,Construction,4,-87.64,41.87
+"(-87.76, 41.95)",Road Closed,Construction,3,-87.76,41.95
+"(-87.75, 41.97)",Road Closed,Construction,3,-87.75,41.97
+"(-87.66, 41.98)",Road Closed,Hazard,2,-87.66,41.98
+"(-87.75, 41.99)",Road Closed,Hazard,1,-87.75,41.99
+"(-87.73, 41.97)",Road Closed,Hazard,1,-87.73,41.97
+"(-87.72, 41.99)",Road Closed,Hazard,1,-87.72,41.99
+"(-87.71, 41.76)",Road Closed,Hazard,1,-87.71,41.76
+"(-87.68, 41.77)",Road Closed,Hazard,1,-87.68,41.77
+"(-87.67, 41.84)",Road Closed,Hazard,1,-87.67,41.84
+"(-87.67, 41.93)",Road Closed,Hazard,1,-87.67,41.93
+"(-87.66, 41.99)",Road Closed,Hazard,1,-87.66,41.99
+"(-87.65, 41.89)",Road Closed,Hazard,1,-87.65,41.89
